@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PHONE_MAC="78:15:2D:3D:9E:7C"
+PHONE_MAC="mac_address"
 RSSI_THRESHOLD=-30
 CHECK_INTERVAL=2
 
