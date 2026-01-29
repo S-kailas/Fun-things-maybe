@@ -1,0 +1,1 @@
+This is a small shell script which frequently checks your device's(any device which have bluetooth and a mac adrr) proximity(rssi) with computer by bluetooth and locks the host computer when the device gets away from the computer
